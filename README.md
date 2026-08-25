@@ -17,8 +17,9 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 
 STEP 5:Include Necessary parameters in each functions.
 
-DEVELOPED BY : ANGELIN GRACY.R
-REGISTER NO : 212225240009
+DEVELOPED BY : AJIN A
+
+REGISTER NO : 212224230011
 
 # Coding and Output:
  ````
